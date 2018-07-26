@@ -16,7 +16,7 @@ let celebrities = [
     {
         name: "Quaid-e-Azam",
         title : "Founder of Pakistan",
-        imgURL:"jinnah.jpg",
+        imgURL:"Jinnah.jpg",
         readMoreURL:"https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
         quote:"No nation can rise to the height of glory un-less your women are side by side with you."
     },
